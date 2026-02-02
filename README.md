@@ -270,14 +270,11 @@ A: 請在 GitHub Issues 中詳細描述問題，包含日誌和重現步驟。
 - 🔗 Discord: [Join Our Server](https://discord.gg/example)
 - 🐛 Issues: [GitHub Issues](https://github.com/yourusername/twfrpbot/issues)
 
-## 🙏 致謝
 
-- TaiwanFRP 提供的 FRP 服務
-- redbean0721 的監控 API
-- discord.py 社區的支持
 
 ---
 
 **Made with ❤️ for the FRP community**
 
 ⭐ 如果這個項目對你有幫助，請給個 Star！
+

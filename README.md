@@ -264,17 +264,11 @@ A: 請在 GitHub Issues 中詳細描述問題，包含日誌和重現步驟。
 
 本項目採用 MIT License - 詳見 [LICENSE](LICENSE) 文件
 
-## 📞 支持
-
-- 📧 Email: support@example.com
-- 🔗 Discord: [Join Our Server](https://discord.gg/example)
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/twfrpbot/issues)
-
-
 
 ---
 
 **Made with ❤️ for the FRP community**
 
 ⭐ 如果這個項目對你有幫助，請給個 Star！
+
 

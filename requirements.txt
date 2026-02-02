@@ -1,0 +1,16 @@
+# TaiwanFRP Discord Bot Requirements
+
+# Discord API
+discord.py==2.3.2
+
+# HTTP Client
+aiohttp==3.9.1
+
+# Environment Variables
+python-dotenv==1.0.0
+
+# Encryption
+cryptography==41.0.7
+
+# Utilities
+requests==2.31.0
